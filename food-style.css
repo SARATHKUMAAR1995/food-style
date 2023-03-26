@@ -1,0 +1,239 @@
+
+.nav-bg{
+    background-color: #FFED8A;
+}
+#nav-link-prop1 {
+    color: red;
+    font-family: "Roboto";
+}
+
+#nav-link-prop2 {
+    color: red;
+    font-family: "Roboto";
+}
+
+#nav-link-prop3 {
+    color: red;
+    font-family: "Roboto";
+}
+
+#nav-link-prop4 {
+    color: red;
+    font-family: "Roboto";
+}
+
+.food-munch-logo {
+    height: 70px;
+    width: 70px;
+}
+.banner-img{
+    height:75%;
+    width:100%
+}
+.banner-carousel-img{
+    height:75vh;
+    width:100vw;
+}
+
+.card1-prop {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.card-heading {
+    font-size: 55px;
+}
+
+.card-para {
+    font-size: 35px;
+}
+
+.why-c-us-section {
+    background-color: #f9fbfe;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.why-c-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.why-c-us-section-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.why-c-us-section-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0px 0px 8px 8px #FFE55C;
+}
+
+.why-c-us-section-card-img {
+    height: 90px;
+    width: 90px;
+}
+
+.why-c-us-section-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.why-c-us-section-card-para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.highlight-content {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.expM-bg {
+    background-color: white;
+    box-shadow: 0px 0px 5px 5px #FFED8A;
+}
+
+.expM-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.expM-img {
+    border-radius: 25px;
+}
+
+.expM-card {
+    border-radius: 15px;
+}
+
+.expM-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.expM-card-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.health-bg {
+    background-color: #f9fbfe;
+}
+
+.health-img {
+    width: 270px;
+}
+
+.health-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.health-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.pay-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thank-bg {
+    background-image: linear-gradient(#756300, #FFDE2E, #FFDE2E, #756300);
+}
+
+.thank-img {
+    width: 75%;
+}
+
+.thank-coupon-code {
+    color: red;
+}
+
+.follow-bg {
+    background-color:#FFDE2E;
+}
+
+.twitter-logo {
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #0275d8;
+
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+.insta-logo {
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
+    padding: 15px;
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+.fb-logo {
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #0275d8;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+.whats-logo {
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #25D366;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+.footer-bg {
+    background-color: #d0b2001a;
+    height: 40%;
+}
+
+.footer-logo {
+    background-size: cover;
+    height: 40%;
+    width: 40%;
+}
+
+.footer-cadrd {
+    height: 45vh;
+}
