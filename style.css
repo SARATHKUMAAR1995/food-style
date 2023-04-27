@@ -186,10 +186,10 @@
     padding: 15px;
     border-radius: 8px;
     background-color: #0275d8;
-
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin: 5px;
+    display:inline;
 }
 
 .insta-logo {
@@ -200,8 +200,8 @@
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
     padding: 15px;
     border-radius: 8px;
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin: 5px;
 }
 
@@ -209,8 +209,8 @@
     padding: 15px;
     border-radius: 8px;
     background-color: #0275d8;
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin: 5px;
 }
 
@@ -218,8 +218,8 @@
     padding: 15px;
     border-radius: 8px;
     background-color: #25D366;
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin: 5px;
 }
 
@@ -234,6 +234,10 @@
     width: 40%;
 }
 
-.footer-cadrd {
+.footer-card {
     height: 45vh;
+}
+.footer-para{
+    display: inline;
+    font-size:20px;
 }
